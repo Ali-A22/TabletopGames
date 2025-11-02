@@ -1,0 +1,11 @@
+{
+  "game": "SushiGo",
+  "nPlayers": 3,
+  "mode": "random",
+  "matchups": 18,
+  "seed": 42,
+  "verbose": true,
+  "destDir": "metrics/out/OppAwareTournament",
+  "addTimeStamp": true,
+  "playerDirectory": "json/agents"
+}

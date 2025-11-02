@@ -1,0 +1,84 @@
+Game: SushiGo, Players: 3, Mode: EXHAUSTIVE, TotalGames: 18, GamesPerMatchup: 3
+OppAwareMCTS got 11.00 points. OppAwareMCTS won 61.1% of the 18 games of the tournament. OppAwareMCTS won 61.1% of the 18 games it played during the tournament.
+OppAwareMCTS got a mean score of 53.17.
+OppAwareMCTS won 61.1% of the 18 games against Basic MCTS.
+OppAwareMCTS won 61.1% of the 18 games against RandomPlayer.
+
+Basic MCTS got 7.00 points. Basic MCTS won 38.9% of the 18 games of the tournament. Basic MCTS won 38.9% of the 18 games it played during the tournament.
+Basic MCTS got a mean score of 50.89.
+Basic MCTS won 38.9% of the 18 games against OppAwareMCTS.
+Basic MCTS won 38.9% of the 18 games against RandomPlayer.
+
+RandomPlayer got 0.00 points. RandomPlayer won 0.0% of the 18 games of the tournament. RandomPlayer won 0.0% of the 18 games it played during the tournament.
+RandomPlayer got a mean score of 28.39.
+RandomPlayer won 0.0% of the 18 games against OppAwareMCTS.
+RandomPlayer won 0.0% of the 18 games against Basic MCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+OppAwareMCTS: Win rate 0.61 +/- 0.115	Mean Ordinal 1.39 +/- 0.11
+Basic MCTS: Win rate 0.39 +/- 0.115	Mean Ordinal 1.67 +/- 0.14
+RandomPlayer: Win rate 0.00 +/- 0.000	Mean Ordinal 2.94 +/- 0.05
+
+Game: SushiGo, Players: 3, Mode: EXHAUSTIVE, TotalGames: 18, GamesPerMatchup: 3
+OppAwareMCTS got 7.00 points. OppAwareMCTS won 38.9% of the 18 games of the tournament. OppAwareMCTS won 38.9% of the 18 games it played during the tournament.
+OppAwareMCTS got a mean score of 50.22.
+OppAwareMCTS won 38.9% of the 18 games against Basic MCTS.
+OppAwareMCTS won 38.9% of the 18 games against RandomPlayer.
+
+Basic MCTS got 11.00 points. Basic MCTS won 61.1% of the 18 games of the tournament. Basic MCTS won 61.1% of the 18 games it played during the tournament.
+Basic MCTS got a mean score of 51.78.
+Basic MCTS won 61.1% of the 18 games against OppAwareMCTS.
+Basic MCTS won 61.1% of the 18 games against RandomPlayer.
+
+RandomPlayer got 0.00 points. RandomPlayer won 0.0% of the 18 games of the tournament. RandomPlayer won 0.0% of the 18 games it played during the tournament.
+RandomPlayer got a mean score of 29.67.
+RandomPlayer won 0.0% of the 18 games against OppAwareMCTS.
+RandomPlayer won 0.0% of the 18 games against Basic MCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Basic MCTS: Win rate 0.61 +/- 0.115	Mean Ordinal 1.39 +/- 0.11
+OppAwareMCTS: Win rate 0.39 +/- 0.115	Mean Ordinal 1.61 +/- 0.11
+RandomPlayer: Win rate 0.00 +/- 0.000	Mean Ordinal 3.00 +/- 0.00
+
+Game: SushiGo, Players: 3, Mode: EXHAUSTIVE, TotalGames: 18, GamesPerMatchup: 3
+OppAwareMCTS got 7.00 points. OppAwareMCTS won 38.9% of the 18 games of the tournament. OppAwareMCTS won 38.9% of the 18 games it played during the tournament.
+OppAwareMCTS got a mean score of 46.22.
+OppAwareMCTS won 38.9% of the 18 games against Basic MCTS.
+OppAwareMCTS won 38.9% of the 18 games against RandomPlayer.
+
+Basic MCTS got 10.00 points. Basic MCTS won 55.6% of the 18 games of the tournament. Basic MCTS won 55.6% of the 18 games it played during the tournament.
+Basic MCTS got a mean score of 46.67.
+Basic MCTS won 55.6% of the 18 games against OppAwareMCTS.
+Basic MCTS won 55.6% of the 18 games against RandomPlayer.
+
+RandomPlayer got 1.00 points. RandomPlayer won 5.6% of the 18 games of the tournament. RandomPlayer won 5.6% of the 18 games it played during the tournament.
+RandomPlayer got a mean score of 31.06.
+RandomPlayer won 5.6% of the 18 games against OppAwareMCTS.
+RandomPlayer won 5.6% of the 18 games against Basic MCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Basic MCTS: Win rate 0.56 +/- 0.117	Mean Ordinal 1.50 +/- 0.14
+OppAwareMCTS: Win rate 0.39 +/- 0.115	Mean Ordinal 1.67 +/- 0.14
+RandomPlayer: Win rate 0.06 +/- 0.054	Mean Ordinal 2.83 +/- 0.12
+
+Game: SushiGo, Players: 3, Mode: EXHAUSTIVE, TotalGames: 18, GamesPerMatchup: 3
+OppAwareMCTS got 2.00 points. OppAwareMCTS won 11.1% of the 18 games of the tournament. OppAwareMCTS won 11.1% of the 18 games it played during the tournament.
+OppAwareMCTS got a mean score of 45.00.
+OppAwareMCTS won 11.1% of the 18 games against Basic MCTS.
+OppAwareMCTS won 11.1% of the 18 games against RandomPlayer.
+
+Basic MCTS got 16.00 points. Basic MCTS won 88.9% of the 18 games of the tournament. Basic MCTS won 88.9% of the 18 games it played during the tournament.
+Basic MCTS got a mean score of 48.56.
+Basic MCTS won 88.9% of the 18 games against OppAwareMCTS.
+Basic MCTS won 88.9% of the 18 games against RandomPlayer.
+
+RandomPlayer got 0.00 points. RandomPlayer won 0.0% of the 18 games of the tournament. RandomPlayer won 0.0% of the 18 games it played during the tournament.
+RandomPlayer got a mean score of 29.94.
+RandomPlayer won 0.0% of the 18 games against OppAwareMCTS.
+RandomPlayer won 0.0% of the 18 games against Basic MCTS.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Basic MCTS: Win rate 0.89 +/- 0.074	Mean Ordinal 1.17 +/- 0.12
+OppAwareMCTS: Win rate 0.11 +/- 0.074	Mean Ordinal 1.89 +/- 0.07
+RandomPlayer: Win rate 0.00 +/- 0.000	Mean Ordinal 2.94 +/- 0.05
+
