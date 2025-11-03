@@ -55,7 +55,7 @@ public class GroupBTreeNode {
             if (!unexp.isEmpty()) {
                 return cur.expand();
             } else {
-                AbstractAction action = cur.ucb();
+                AbstractAction action = cur.laplaceSmoothing();
                 cur = cur.children.get(action);
             }
         }
@@ -76,7 +76,7 @@ public class GroupBTreeNode {
         return child;
     }
 
-    private AbstractAction ucb() {
+    private AbstractAction laplaceSmoothing() {
         AbstractAction bestAction = null;
         double bestValue = -Double.MAX_VALUE;
         BasicMCTSParams p = (BasicMCTSParams) player.getParameters();
@@ -86,8 +86,8 @@ public class GroupBTreeNode {
             if (c == null) continue;
 
             double value = c.totValue / (c.nVisits + p.epsilon);
-            double exploration = p.K * Math.sqrt(Math.log(this.nVisits + 1) / (c.nVisits + p.epsilon));
-            double uct = Utils.noise(value + exploration, p.epsilon, rnd.nextDouble());
+            double explorationTerm =(c.totValue + 1 / (c.nVisits + (1 * p.K))) + p.K * Math.sqrt(Math.log(this.nVisits + 1) / (c.nVisits + p.epsilon));
+            double uct = Utils.noise(value + explorationTerm, p.epsilon, rnd.nextDouble());
 
             if (uct > bestValue) {
                 bestValue = uct;
